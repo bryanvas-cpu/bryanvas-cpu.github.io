@@ -1,5 +1,6 @@
 ---
-title: "Unmanned Land Rover POC: Design, Implementation, and Testing"
+title: "Unmanned Land Rover POC"
+description: Design, Implementation, and Testing
 date: 2024-11-20
 categories: [Projects, Robotics]
 tags: [land rover, robotics, unmanned vehicles, Jekyll]
