@@ -54,9 +54,9 @@ Since then, I have developed a strong interest in, [Vision based Machine Learnin
 
 If you are interested in my work or wish to collaborate, feel free to reach out or explore more through the following channels:
 
-- [ GitHub ](https://github.com/bryanvas-cpu){: .btn .btn-primary target="_blank"}
-- [LinkedIn](https://www.linkedin.com/in/bryan-vas-0bb718284){: .btn .btn-secondary target="_blank"}
-- [ Email  ](mailto:bryanvas25@gmail.com){: .btn .btn-info}
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/bryanvas-cpu){: .btn .btn-primary target="_blank" style="margin-right: 20px;"}
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/bryan-vas-0bb718284){: .btn .btn-secondary target="_blank" style="margin-right: 20px;"}
+[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:bryanvas25@gmail.com){: .btn .btn-info target="_blank"}
 
 ---
 
