@@ -42,7 +42,7 @@ Since then, I have developed a strong interest in, [Vision based Machine Learnin
 
 ---
 
-## My Journey in Numbers 📈
+## Some Numbers 📈
 
 | Projects Completed | Linkedin | Open-Source Repositories |
 |--------------------|--------------------|--------------------------|
