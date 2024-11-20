@@ -3,7 +3,7 @@ title: "Unmanned Land Rover POC"
 description: Design, Implementation, and Testing
 date: 2024-11-20
 categories: [Projects, Robotics]
-tags: [land rover, robotics, unmanned vehicles, Jekyll]
+tags: [land rover, robotics, unmanned vehicles]
 author: "Bryan Vas"
 image: assets/images/UMV/UMV_POC.jpeg # Feature image for the post
 ---
@@ -46,7 +46,7 @@ This project combines mechanical design, software algorithms, and sensor integra
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <div>
-    <img src="assets/images/UMV/UMV_POC.jpeg" alt="Rover Prototype" style="width: 100%;">
+    <img src="assets/images/UMV/UMV_internal.jpeg" alt="Rover Prototype" style="width: 100%;">
     <p style="text-align: center;">Figure 1: Rover prototype.</p>
   </div>
   <div>
