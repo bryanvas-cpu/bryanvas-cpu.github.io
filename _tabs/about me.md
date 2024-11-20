@@ -7,10 +7,27 @@ order: 4
 ## A Visual Perspective
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
-  <img src="assets/images/About/output-onlinepngtools.png" alt="Inspiration 1" style="height: 300px; width: auto; border-radius: 50px;">
-  <img src="assets/images/About/me_at_kharagpur.jpeg" alt="Inspiration 2" style="height: 350px; width: auto; border-radius: 100px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="assets/images/About/Olaf_from_Disney's_Frozen.png" alt="Inspiration 3" style="height: 300px; width: auto; border-radius: 50px;">
+  <img src="assets/images/About/output-onlinepngtools.png" alt="Inspiration 1" style="height: 300px; width: auto; border-radius: 50px; max-width: 100%; object-fit: cover;">
+  <img src="assets/images/About/me_at_kharagpur.jpeg" alt="Inspiration 2" style="height: 350px; width: auto; border-radius: 100px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 100%; object-fit: cover;">
+  <img src="assets/images/About/Olaf_from_Disney's_Frozen.png" alt="Inspiration 3" style="height: 300px; width: auto; border-radius: 50px; max-width: 100%; object-fit: cover;">
 </div>
+
+<!-- Add a media query for mobile view -->
+<style>
+  @media (max-width: 768px) {
+    div {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    img {
+      height: 250px; /* Adjust height for mobile view */
+      width: auto;
+      max-width: 90%; /* Ensure images don't overflow */
+      margin-bottom: 20px; /* Add spacing between images */
+    }
+  }
+</style>
 
 ---
 
