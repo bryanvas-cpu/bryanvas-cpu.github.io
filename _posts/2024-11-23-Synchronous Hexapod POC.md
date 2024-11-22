@@ -66,7 +66,7 @@ This project combines mechanical design, and software algorithms, to achieve ful
     <p style="text-align: center; margin-top: 10px;">Figure 3: Insides</p>
   </div>
   <div>
-    <iframe width="150%" height="auto" style="max-width: 300px; aspect-ratio: 16/9;" 
+    <iframe width="100%" height="auto" style="max-width: 300px; aspect-ratio: 4/3;" 
     src="https://www.youtube.com/embed/iwAWR1MDBaE?si=iPdtvmGcoOsi6Q_h" 
     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen></iframe>
