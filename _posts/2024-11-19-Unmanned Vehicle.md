@@ -16,7 +16,7 @@ Creating an unmanned land rover has been an exciting and educational journey. Th
 
 Watch the rover in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zfTf6diOmM" 
+<iframe width="315" height="560" src="https://www.youtube.com/embed/6zfTf6diOmM" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
