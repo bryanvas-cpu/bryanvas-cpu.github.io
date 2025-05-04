@@ -67,35 +67,46 @@ esp32 developmnet module has beeen used here, for all communication, and computa
 
 ### Overview
 
+- The 3 videos shown above display the implementations of LQR, in both perfect world, and real world scenarios.
+- Real world scenario is achieved by adding gaussian noise to all sensor readings.
+- 3 filters have been implemented, namely: low pass(exponential average) filter, moving average filter, and median filter. here: LPF + MA filter has been found to give best results.
 
 ## Technical Details
 
 ### Hardware
-- **Currently non existent (In development)**
+- **In development**
+<!-- BEGIN responsive image grid -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="flex: 1 1 22%; min-width: 150px;">
+    <img src="assets/images/Wheeled_Biped/rando_biped_image.jpeg" alt="Image 1" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 22%; min-width: 150px;">
+    <img src="assets/images/Wheeled_Biped/biped_test_setup.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 22%; min-width: 150px;">
+    <img src="assets/images/Wheeled_Biped/biped_test_setup_2.jpeg" alt="Image 3" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 22%; min-width: 150px;">
+    <img src="assets/images/Wheeled_Biped/biped_PCB.jpeg" alt="Image 4" style="width: 100%; height: auto;">
+  </div>
+</div>
+<!-- END responsive image grid -->
+
 
 ### Software
-- **Programming Language:** Python, C++.
-- **Autonomy:** Fully autonomous drive to Target site (static environment).
+- **Programming Language:** Python, embedded C.
 
 #### Source Code
 
-The codebase for the project will not be made public due to institute regulations, however, the software stack used is listed below.
-
-- ROS2:(python) Slam-toolbox, Nav2.
-- Non-linear Model Predictive control(NMPC): casadi, numpy.
-- Path planning: (python) basic A* implementation.
+The complete codebase and documentation are available on [GitHub](https://github.com/bryanvas-cpu/Ashsish_Biped)
 
 ## Acknowledgments
 
-- CAD model: <a href="https://www.linkedin.com/in/shobit-verma15/" target="_blank">Shobit Verma</a> 
-- Software: me
-- Funding: IIT Dhanbad.
+- Design, Software, Hardware, Electronics: me
+- Funding: IIT Dhanbad
 
 ## What’s Next?
 
 A lot of cool stuff.
-- Improving the code structure
-- Implementing CNN based ore detection
-- Automatic mining of detected coal
-- Adding behaviour tree, for full functionality
-- and more
+- Completion of hardware
+- Tuning and Testing
